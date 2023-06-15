@@ -2,6 +2,9 @@
 
 Revolutionize your farm with HarvestNet! Unleash AI power for smarter, greener, and more sustainable agriculture. Be part of the agro-future now! 🌎
 
+![Harvest net image banner](harvestNET.png)
+
+
 ## 🌱 Architecture 🏗️
 
 HarvestNet is organized into task-specific folders, each containing plug-and-play Colab notebooks 📔 and multi-modal Chatbot APIs 🗣️ for seamless integration into your existing agriculture stack.
